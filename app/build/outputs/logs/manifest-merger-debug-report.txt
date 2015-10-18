@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:2:1-79:12
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:2:1-89:12
 	xmlns:android
 		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -225,7 +225,7 @@ ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:
 	android:name
 		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:23:22-76
 application
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:25:5-77:19
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:25:5-87:19
 MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
@@ -401,65 +401,79 @@ ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:
 	android:value
 		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:39:13-50
 activity#se.loco.app.TransactionActivity
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:41:9-50:20
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:41:9-52:20
 	android:screenOrientation
 		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:44:13-49
 	android:label
 		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:43:13-45
+	android:theme
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:45:13-60
 	android:name
 		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:42:13-48
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:45:13-49:29
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:47:13-51:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:46:17-69
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:48:17-69
 	android:name
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:46:25-66
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:48:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:48:17-77
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:50:17-77
 	android:name
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:48:27-74
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:50:27-74
 activity#com.facebook.LoginActivity
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:51:9-53:75
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:53:9-56:15
 	android:theme
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:53:13-72
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:55:13-72
 	android:name
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:52:13-54
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:54:13-54
 activity#se.loco.app.TabsActivity
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:54:9-56:52
-	android:screenOrientation
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:56:13-49
-	android:name
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:55:13-52
-activity#se.loco.app.SearchFriendsActivity
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:57:9-59:52
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:57:9-60:63
 	android:screenOrientation
 		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:59:13-49
+	android:theme
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:60:13-60
 	android:name
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:58:13-61
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:58:13-52
+activity#se.loco.app.SearchFriendsActivity
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:61:9-64:63
+	android:screenOrientation
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:63:13-49
+	android:theme
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:64:13-60
+	android:name
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:62:13-61
 activity#se.loco.app.ViewBuddy
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:60:9-62:52
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:65:9-68:63
 	android:screenOrientation
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:62:13-49
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:67:13-49
+	android:theme
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:68:13-60
 	android:name
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:61:13-49
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:66:13-49
 activity#se.loco.app.Settings
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:68:9-70:52
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:75:9-78:63
 	android:screenOrientation
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:70:13-49
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:77:13-49
+	android:theme
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:78:13-60
 	android:name
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:69:13-48
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:76:13-48
 activity#se.loco.app.MainActivity
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:71:9-73:52
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:79:9-82:64
 	android:screenOrientation
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:73:13-49
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:81:13-49
+	android:theme
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:82:14-61
 	android:name
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:72:13-52
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:80:13-52
 activity#se.loco.app.MyDrinkListActivity
-ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:74:9-76:52
+ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:83:9-86:63
 	android:screenOrientation
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:76:13-49
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:85:13-49
+	android:theme
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:86:13-60
 	android:name
-		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:75:13-59
+		ADDED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:84:13-59
 activity#com.google.android.gms.ads.AdActivity
 ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:26:9-29:64
 MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:26:9-29:64
@@ -479,7 +493,7 @@ MERGED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\Marre\Stud
 	android:name
 		ADDED from [com.google.android.gms:play-services-ads:8.1.0] C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\AndroidManifest.xml:30:19-91
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:2:1-79:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Marre\StudioProjects\Loco5\app\src\main\AndroidManifest.xml:2:1-89:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.android.gms:play-services-gcm:8.1.0] C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\AndroidManifest.xml:21:5-82
 	android:name

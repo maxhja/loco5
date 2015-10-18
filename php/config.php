@@ -1,10 +1,10 @@
 <?php
 
 // server values
-$servername = "localhost";
-$username = "posdima_user";
-$password = "loco@123";
-$dbname = "posdima_loco";
+$servername = "afuriqa.com.mysql";
+$username = "afuriqa_com";
+$password = "NR3BRMHd";
+$dbname = "afuriqa_com";
 
 
 // Create connection

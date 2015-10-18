@@ -235,11 +235,13 @@ public class MainActivity extends FragmentActivity {
 			// LOAD SERVER PREF
 
 			try {
-				sendString = "http://posdima.com/loco/checkUsers.php?id="
+
+				sendString = "http://afuriqa.com/loco/checkUsers.php?id="
 						+ URLEncoder.encode(id, "UTF-8") + "&name="
 						+ URLEncoder.encode(name, "UTF-8") + "&date="
 						+ URLEncoder.encode(date, "UTF-8");
 			} catch (UnsupportedEncodingException e1) {
+
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
