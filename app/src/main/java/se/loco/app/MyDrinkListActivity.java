@@ -217,7 +217,7 @@ public class MyDrinkListActivity extends Activity {
 			// LOAD SERVER PREF
 
 			try {
-				sendString = "http://posdima.com/loco/myDrinkList.php?id="
+				sendString = "http://afuriqa.com/loco/myDrinkList.php?id="
 						+ URLEncoder.encode(id, "UTF-8") + "&from_date="
 						+ URLEncoder.encode(from, "UTF-8") + "&to_date="
 						+ URLEncoder.encode(to, "UTF-8");

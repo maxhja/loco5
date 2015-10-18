@@ -378,7 +378,7 @@ public class SearchFriendsActivity extends Activity implements
 			// LOAD SERVER PREF
 
 			try {
-				sendString = "http://posdima.com/loco/addFriend.php?user_id="
+				sendString = "http://afuriqa.com/loco/addFriend.php?user_id="
 						+ URLEncoder.encode(userId, "UTF-8") + "&friend_id="
 						+ URLEncoder.encode(friendId, "UTF-8") + "&friendName="
 						+ URLEncoder.encode(friendName, "UTF-8")

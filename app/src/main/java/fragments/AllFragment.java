@@ -167,7 +167,7 @@ public class AllFragment extends ListFragment {
 			// LOAD SERVER PREF
 
 			try {
-				sendString = "http://posdima.com/loco/all.php?id="
+				sendString = "http://afuriqa.com/loco/all.php?id="
 						+ URLEncoder.encode(userId, "UTF-8");
 			} catch (UnsupportedEncodingException e1) {
 				// TODO Auto-generated catch block

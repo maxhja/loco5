@@ -224,7 +224,7 @@ public class OutFragment extends ListFragment {
 			// LOAD SERVER PREF
 
 			try {
-				sendString = "http://posdima.com/loco/outPersonList.php?id="
+				sendString = "http://afuriqa.com/loco/outPersonList.php?id="
 						+ URLEncoder.encode(userId, "UTF-8")
 						+ "&gender="
 						+ URLEncoder.encode(

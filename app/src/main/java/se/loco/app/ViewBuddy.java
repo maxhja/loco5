@@ -309,7 +309,7 @@ public class ViewBuddy extends Activity {
 			// LOAD SERVER PREF
 
 			try {
-				sendString = "http://posdima.com/loco/drinkList.php?friendId="
+				sendString = "http://afuriqa.com/loco/drinkList.php?friendId="
 						+ URLEncoder.encode(fiendId, "UTF-8") + "&from_date="
 						+ URLEncoder.encode(from, "UTF-8") + "&to_date="
 						+ URLEncoder.encode(to, "UTF-8");

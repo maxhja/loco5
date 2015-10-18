@@ -296,7 +296,7 @@ public class BeerFragment extends Fragment implements OnClickListener,
 			// LOAD SERVER PREF
 
 			try {
-				sendString = "http://posdima.com/loco/booze.php?id="
+				sendString = "http://afuriqa.com/loco/booze.php?id="
 						+ URLEncoder.encode(
 								prefs.getString(Globals.userId, null), "UTF-8")
 						+ "&bottle_size="

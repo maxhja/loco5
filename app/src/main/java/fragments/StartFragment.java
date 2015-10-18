@@ -267,7 +267,7 @@ public class StartFragment extends Fragment implements OnClickListener,
 			// LOAD SERVER PREF
 
 			try {
-				sendString = "http://posdima.com/loco/changeStatus.php?id="
+				sendString = "http://afuriqa.com/loco/changeStatus.php?id="
 						+ URLEncoder.encode(user_id, "UTF-8") + "&on_party="
 						+ URLEncoder.encode(on_party, "UTF-8") + "&date="
 						+ URLEncoder.encode(date, "UTF-8") + "&latitude="

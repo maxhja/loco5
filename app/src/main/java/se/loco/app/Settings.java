@@ -192,7 +192,7 @@ public class Settings extends Activity {
 			// LOAD SERVER PREF
 
 			try {
-				sendString = "http://posdima.com/loco/addSettings.php?id="
+				sendString = "http://afuriqa.com/loco/addSettings.php?id="
 						+ URLEncoder.encode(
 								prefs.getString(Globals.userId, null), "UTF-8")
 						+ "&weight="
