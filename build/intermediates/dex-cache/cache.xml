@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-f40b536c6920fa917f27aac498731c6dfd9b9a2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-a265bdff7653e899623cfce07b677073f2129dc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-46f2ab583fcee6d1f0a2367d659b0586444cfcd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-459d1689cbc2cfa4bf3ad49cca5d722703515168.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-0e191cbe5950c93f9974b72d9f2b7fe2b4920952.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-e5f7b28ba6743ad590975eb4a92d43bbdc47fd7d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-ee2a2be7750cbbe43967d584312212a95b0ca953.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-020d235f43b2405e9303d2e16f39c29ba201bd5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-d3f399eb77b381e7c4c5c07964aa66d934b1a09c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-1ba1e93e34339486fe2503e1e864409797fc726f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-25cb305bfacdc5da06ad6fac4bc899372a3252c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-fd82ce780583df9ef47d4cb025b6f1838d5c3e73.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-9225bdad8162edc5e738df58b1f3efd94babf18b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-fe414c2c8a76f5c277c20bda36d8cb1c0994947f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-0608aef5654cb1ffb40afdeffdc3d8a5ef644be9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-602a19963a848df49692a0e9ff611bd2eb50ddf5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-8ddb08796519f21898ee2665f8c940a3409ca637.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-40b7e849456d1ad084624223349976b46cd44549.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-4d5f9797ffc0248b9329068a1d7d652048c2d736.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-3e7179e5c4a9c9489cd9c473150689db59c9ca40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\3.23.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c8414f03ff9e5b045f185921c9bc42914c906458">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-e4b43640b1a13ec30ac889ca1f97d72fb472fa5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-aca9e1e6c0fc4a337744e9e03a62721a26a59f78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-3d1045337d5de4792a507cac8235495f3919ea02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-5e70aeb9b6e044384a835734e46eb72cbf3d47c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-b1ac2a18df81ce2830226ab11ebc0bc070ac54f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-ed77a83214e2e2c1d6d29fcbe9866a6fcc924bab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-6fe8db147fd4a3a7e6e0ae81192fb27dce00559a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-1a2e80e2ce1ad39af8d37324803fb986de81e236.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-5a69b6f1b553c187a3de0b432974bc6415b3b175.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\Marre\StudioProjects\Loco5\app\build\intermediates\pre-dexed\debug\classes-eca528ecb6d5470439dbdd6b2ec6f7e7efe525b8.jar" />
+    </item>
+
+</items>
